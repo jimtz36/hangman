@@ -1,0 +1,31 @@
+#header{
+    text-align: center;
+    font-size: 30px;
+}
+
+#hangman-box{
+    height: 500px;
+    margin-left: 32%;
+    margin-right: 32%;
+    border-style: solid;
+    border-color: black;
+    font-size: 69px;
+}
+
+#word-space{
+    font-size: 65px;
+    text-align: center;
+    white-space: pre;
+}
+
+#letter-buttons{
+    position: fixed;
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 32%;
+}
+
+.buttons{
+    
+}
